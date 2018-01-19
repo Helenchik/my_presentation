@@ -1,0 +1,18 @@
+body{
+   font: 32px arial, sans-serif;
+}
+div {
+  margin: 0px 60px 0px 60px;
+  padding: 15px;
+  background-color: #ccc;
+  /*border: solid 1px #000;*/
+  }
+ 
+h1{
+  color: #000000;
+}
+ p {
+    color: #000000;
+}
+
+
